@@ -1,6 +1,6 @@
 logs:
   # (Required) Path to logs file (default: $CWD/job-worker.log)
-  path: D:\scripts\private\job-worker\job-worker.log
+  path: $CWD\job-worker.log
   # (Optional) Log level. Choices: [DEBUG, INFO, WARNING, ERROR] (default: INFO)
   level: INFO
   # (Optional) Log anything related to watcher (default: false)
